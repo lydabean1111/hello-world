@@ -1,2 +1,3 @@
 # hello-world
-Learning code
+Heyo, 
+Me here. I'm loving this tiny little font. Joyous.
